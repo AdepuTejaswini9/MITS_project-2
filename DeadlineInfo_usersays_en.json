@@ -1,0 +1,132 @@
+[
+  {
+    "id": "b581c21c-a14d-44b2-8c0b-e37fd118f5d2",
+    "data": [
+      {
+        "text": "Do I have time to apply?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eed79642-81bc-4ab1-abf9-b4c7884e52d5",
+    "data": [
+      {
+        "text": "When will the form close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0567ef8f-c340-4ed3-8a48-393372cd3ad9",
+    "data": [
+      {
+        "text": "Is the application still open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32a9a510-961e-4130-914b-e6af58983bc4",
+    "data": [
+      {
+        "text": "Can I still apply?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d42960b-19f6-49c5-8366-35db6f7b3695",
+    "data": [
+      {
+        "text": "Deadline to register?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ea8e278-6754-41d1-9202-49c69487ff56",
+    "data": [
+      {
+        "text": "Final date for internship applications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "217fc2c0-c9fe-45ad-a380-a4c146d539bd",
+    "data": [
+      {
+        "text": "When do applications close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a34e88b4-c6b9-4cd3-9e9b-fb281b199975",
+    "data": [
+      {
+        "text": "Application closing date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e098ab89-0249-481e-aa28-7a8af69cc7d4",
+    "data": [
+      {
+        "text": "What\u0027s the last date to apply?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce6df88e-9154-4c0f-99a8-8cc803e6fe5e",
+    "data": [
+      {
+        "text": "When is the deadline?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

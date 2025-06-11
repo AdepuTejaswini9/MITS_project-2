@@ -1,0 +1,132 @@
+[
+  {
+    "id": "7187341e-97d8-46a0-a67f-986956c6ce3a",
+    "data": [
+      {
+        "text": "Where can I ask more questions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9f63070-b81b-4d92-8852-00178b255d82",
+    "data": [
+      {
+        "text": "I need assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "148acbc0-1043-4468-912d-32743278efa0",
+    "data": [
+      {
+        "text": "Contact info please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b064d79-a812-4ecd-8aa4-bfde9df68401",
+    "data": [
+      {
+        "text": "How can I get in touch?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8eedc14-da41-41d3-b314-471736843a36",
+    "data": [
+      {
+        "text": "How to reach support?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54503ad0-6b00-48e5-afb6-3c287754f7a9",
+    "data": [
+      {
+        "text": "Who can I talk to?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0050f406-8b3c-4b38-be4f-71342c10dfcf",
+    "data": [
+      {
+        "text": "I have a question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57660de2-200f-4558-b569-388ce88a36a6",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7378246-78c6-4d87-92e5-fae5f71ddd53",
+    "data": [
+      {
+        "text": "Is there a support email?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5b53ec9-9a01-4305-8cf5-0777e1bd2672",
+    "data": [
+      {
+        "text": "How do I contact someone?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

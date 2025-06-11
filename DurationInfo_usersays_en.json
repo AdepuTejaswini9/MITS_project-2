@@ -1,0 +1,132 @@
+[
+  {
+    "id": "e62c8ae9-7403-4ccd-aba2-086838c591e5",
+    "data": [
+      {
+        "text": "Weeks of internship?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cce5423-0b7e-415b-9d5e-cb7dc11ade41",
+    "data": [
+      {
+        "text": "Tell me the duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10e72b0d-7f8a-4c8e-baf0-e15d44a6ca8a",
+    "data": [
+      {
+        "text": "Internship time span?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a3744c3-8191-430e-9fc2-102ff5b573b6",
+    "data": [
+      {
+        "text": "How long will the internship take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da0cafe3-28aa-4cc8-b306-1254422d7adc",
+    "data": [
+      {
+        "text": "What\u0027s the time period for this internship?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79b2fdd3-cd02-4cd9-95aa-d9af242a29cb",
+    "data": [
+      {
+        "text": "Is it short-term or long-term?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ff883c4-289a-4ed0-b593-a3107eef19d6",
+    "data": [
+      {
+        "text": "How many weeks is the internship?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9db4fcc-c4b1-41b3-89b3-cdb6c3c84ff1",
+    "data": [
+      {
+        "text": "Duration of the internship?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddfa453a-d4fb-4800-addf-04116f36008a",
+    "data": [
+      {
+        "text": "What\u0027s the internship duration?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43632544-26a1-4ae3-a8c8-46a08d3ce652",
+    "data": [
+      {
+        "text": "How long is the internship?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

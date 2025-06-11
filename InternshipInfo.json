@@ -1,0 +1,35 @@
+{
+  "id": "d20e2833-7454-4e15-b6ef-4497b7088fb5",
+  "name": "InternshipInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "📌 Yes, MITS offers internship programs designed for students across various technical fields.\nOur internships are project-based, remote-friendly, and open to students from all backgrounds.\nLet me know if you\u0027d like details on how to apply or what domains are available."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

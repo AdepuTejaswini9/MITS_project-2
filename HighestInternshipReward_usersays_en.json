@@ -1,0 +1,168 @@
+[
+  {
+    "id": "954e54de-09b5-4e4e-83b0-76a8c47816c7",
+    "data": [
+      {
+        "text": "paid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0266c2c5-7c0b-49ca-93bb-6226c555ce33",
+    "data": [
+      {
+        "text": "package",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e698e3d-073a-4664-adc3-a0a4d3c64b87",
+    "data": [
+      {
+        "text": "Is ₹",
+        "userDefined": false
+      },
+      {
+        "text": "15,000",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " the maximum reward?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9d08ed0-1827-4974-972b-82fbaf31d1a2",
+    "data": [
+      {
+        "text": "How much do top-performing interns get?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff3f8cf5-626b-482c-857b-bb81ebe5e33d",
+    "data": [
+      {
+        "text": "Will I get paid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f7b72cf-6f7b-46a2-a43f-9eca7ec020e5",
+    "data": [
+      {
+        "text": "What are the perks or benefits?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "112934ee-59d8-415e-95cf-05ebe1608929",
+    "data": [
+      {
+        "text": "How much will I earn during the internship?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82845152-4de1-45ca-be52-55c294454e6d",
+    "data": [
+      {
+        "text": "Is there a stipend?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19e9d678-61d7-49c3-ac09-08dc83f3d1fd",
+    "data": [
+      {
+        "text": "What is the top package or amount I can get?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05121c3b-519b-410e-915d-080f5085cfa3",
+    "data": [
+      {
+        "text": "Do you provide any incentives?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f01ce3e9-6346-48e3-b9f8-b2f8210a53a2",
+    "data": [
+      {
+        "text": "What\u0027s the maximum reward for this internship?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fecb3f5-ed34-4f6d-b220-cb8edbf51461",
+    "data": [
+      {
+        "text": "What is the highest stipend offered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

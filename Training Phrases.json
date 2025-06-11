@@ -1,0 +1,35 @@
+{
+  "id": "42cd3499-57ff-4392-994d-1d0997c94176",
+  "name": "Training Phrases",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "🌱 Absolutely! Our internships are designed to help students at all levels — even if you\u0027re just starting out.\n\nWe value curiosity and the willingness to learn. If you\u0027re a fast learner and committed, you\u0027re more than welcome to apply!\n\n💡 You\u0027ll get:\n• Hands-on training\n• Beginner-friendly projects\n• Mentorship to guide you along the way\n\nSo don’t worry about experience — just bring your enthusiasm!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

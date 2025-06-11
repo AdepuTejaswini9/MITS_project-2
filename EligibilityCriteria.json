@@ -1,0 +1,35 @@
+{
+  "id": "cd784077-f96a-434b-a3ed-581e3647da72",
+  "name": "EligibilityCriteria",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "✅ Internship eligibility usually includes:\n• Being a current student or a recent graduate\n• Having basic knowledge or skills related to the domain you choose\n\nSome roles might prefer students with portfolios or hands-on experience, but beginners are also welcome!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

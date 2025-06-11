@@ -1,0 +1,35 @@
+{
+  "id": "decb7752-6c7c-4a74-a3b1-4eb134190557",
+  "name": "InternshipDomains",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "📚 We offer internships in domains like:\n• Web Development\n• Data Science\n• Machine Learning\n• Cloud Computing\n• Python Programming\n• IoT and more!\nLet me know if you need any help about internship, like duration of the internship."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

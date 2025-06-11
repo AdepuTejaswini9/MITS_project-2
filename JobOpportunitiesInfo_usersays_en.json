@@ -1,0 +1,93 @@
+[
+  {
+    "id": "626fd1df-b8c2-4566-bb10-459bb1a68120",
+    "data": [
+      {
+        "text": "Is this a job or internship?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3ca93a6-192e-486e-9dfd-61fb3a425785",
+    "data": [
+      {
+        "text": "Are there career opportunities?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04ac07b5-d9cd-436a-accc-1c1a3c887546",
+    "data": [
+      {
+        "text": "Do you provide full-time positions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b8dbf48-069b-4fc9-8d2d-1bc3d4e47f95",
+    "data": [
+      {
+        "text": "Can I get a job here?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62a3eb0d-1195-405a-98a7-e7d90294827f",
+    "data": [
+      {
+        "text": "Are there any job openings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23aa02c4-cfb0-4549-adf2-d19f67cb64de",
+    "data": [
+      {
+        "text": "Do you offer jobs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3422406a-bc87-48bd-9731-fde30a1d499c",
+    "data": [
+      {
+        "text": "Will you give me a job?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

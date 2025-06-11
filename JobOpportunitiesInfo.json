@@ -1,0 +1,35 @@
+{
+  "id": "aa88b7f3-c183-42dc-a728-b7d06380b1de",
+  "name": "JobOpportunitiesInfo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "💼 Currently, we are offering internship opportunities, not full-time job roles.\nThese internships are a great way to gain experience and could lead to future career opportunities.\nLet me know if you\u0027d like to know more about our internship programs!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
